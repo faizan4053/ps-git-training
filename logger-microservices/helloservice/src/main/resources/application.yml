@@ -1,0 +1,5 @@
+Server:
+  Port: 8090
+spring:
+  application:
+    name: hello-service
